@@ -4,3 +4,17 @@
 .text-blue{
     color: #562EFF;
 }
+.bg-red{
+    background-color: #fba4a4;
+    border-radius: 20px;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 80%;
+}
+.bg-box{
+    background-color: #fcc2c2;
+    border-radius: 25px;
+}
+a{
+    text-decoration: none;
+}
